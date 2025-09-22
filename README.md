@@ -9,6 +9,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Qozuu/Qozuu/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/Qozuu/Qozuu/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
